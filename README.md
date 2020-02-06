@@ -1,6 +1,6 @@
-# external-request-api-json-rn
-<h3>//Aprendendo a realizar requisições externas, exibindo as mesmas em uma flatlist.<h3>
-<h3>//Estou utilizando uma api contendo informações sobre filmes (http://filmespy.herokuapp.com/api/v1/filmes).<h3>
+### external-request-api-json-rn
+<h5>//Aprendendo a realizar requisições externas, exibindo as mesmas em uma flatlist.<h5>
+<h5>//Estou utilizando uma api contendo informações sobre filmes (http://filmespy.herokuapp.com/api/v1/filmes).<h5>
 
 Para rodar o projeto.
 
